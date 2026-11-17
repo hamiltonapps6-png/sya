@@ -1,0 +1,8 @@
+{
+  "name": "Siyantek Maintenance Tracker",
+  "description": "Siyantek – Carnet d'entretien digital pour propriétaires de voitures particulières. Suivez vos vidanges, pièces de rechange, dépenses et rappels techniques en toute simplicité.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,14 @@
+node_modules/
+dist/
+android/.gradle/
+android/build/
+android/app/build/
+.env
+.env.*
+!.env.example
+data/siyantek-db.json
+data/backups/*
+data/uploads/receipts/*
+*.jks
+*.keystore
+local.properties
